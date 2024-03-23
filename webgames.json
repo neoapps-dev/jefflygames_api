@@ -3,12 +3,14 @@
   "title":"Basketball FRVR",
   "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxQANRzwnQDM03jmEV4faUtbi8z0kctsP5YNb-TSwAUg&s",
   "url": "https://basketball.frvr.com",
-  "age": "3"
+  "age": "3",
+  "genre": "Sports"
  },  
  {
   "title":"Wallyjump FRVR",
   "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRr1Wa_dnf9neWCRIBebcs4mgmtY7STwXNUjzLb8gVeDA&s",
   "url": "https://wallyjump.frvr.com",
-  "age": "6"
+  "age": "6",
+  "genre": "Infinite"
  }
 ]
